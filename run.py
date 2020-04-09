@@ -398,3 +398,4 @@ def calculate():
             
     max_reach()
 
+calculate()
