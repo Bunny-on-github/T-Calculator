@@ -118,7 +118,7 @@ def cal_anime():
     entree()
     print("\n\n\n")
     print("Loading Calci-T Server Please Wait..")
-    print("[==========] " + str(random.choice(lst0)) + "%")
+    print("[==========] " + str(lst0) + "%")
     print("Loading Succesful")
     input("Press Enter To Continue")
 
